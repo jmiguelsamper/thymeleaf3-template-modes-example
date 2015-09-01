@@ -1,7 +1,5 @@
 body {
     font-family: Arial, sans-serif;
     padding-left: 1em;
-    
-    /* FIXME why unescaped notation? */
-    background-color: /*[(${backgroundColor})]*/ pink;
+    background-color: /*[[${backgroundColor}]]*/ pink;
 }
