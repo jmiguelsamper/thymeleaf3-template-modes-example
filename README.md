@@ -1,4 +1,4 @@
-# Thymeleaf 3 example
+# Thymeleaf 3 template modes example
 
 Simple example of the new Thymeleaf 3 template modes.
 
