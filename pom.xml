@@ -12,7 +12,7 @@
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
-        <thymeleaf.version>3.0.0.BETA01</thymeleaf.version>
+        <thymeleaf.version>3.0.0.RELEASE</thymeleaf.version>
         <spring.version>4.2.0.RELEASE</spring.version>
         <maven.compiler.source>1.7</maven.compiler.source>
         <maven.compiler.target>1.7</maven.compiler.target>
